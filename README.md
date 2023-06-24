@@ -1,1 +1,3 @@
 # ROS_showpath_odom
+
+实现在ROS_RViz里面生成移动机器人的行驶路径
